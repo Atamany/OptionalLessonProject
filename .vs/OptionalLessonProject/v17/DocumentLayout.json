@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kodlar\\OptionalLessonProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|d:\\kodlar\\optionallessonproject\\optionallessonproject\\staticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|solutionrelative:optionallessonproject\\staticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|d:\\kodlar\\optionallessonproject\\optionallessonproject\\staticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|solutionrelative:optionallessonproject\\staticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|d:\\kodlar\\optionallessonproject\\optionallessonproject\\lessonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|solutionrelative:optionallessonproject\\lessonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|d:\\kodlar\\optionallessonproject\\optionallessonproject\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|solutionrelative:optionallessonproject\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|d:\\kodlar\\optionallessonproject\\optionallessonproject\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|solutionrelative:optionallessonproject\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|d:\\kodlar\\optionallessonproject\\optionallessonproject\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|solutionrelative:optionallessonproject\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|d:\\kodlar\\optionallessonproject\\optionallessonproject\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|solutionrelative:optionallessonproject\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|d:\\kodlar\\optionallessonproject\\optionallessonproject\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|solutionrelative:optionallessonproject\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|d:\\kodlar\\optionallessonproject\\optionallessonproject\\lessonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|solutionrelative:optionallessonproject\\lessonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|d:\\kodlar\\optionallessonproject\\optionallessonproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D71819-B615-4B57-82E5-D42F3D0E6E84}|OptionalLessonProject\\OptionalLessonProject.csproj|solutionrelative:optionallessonproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LessonForm.cs",
+              "DocumentMoniker": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\LessonForm.cs",
+              "RelativeDocumentMoniker": "OptionalLessonProject\\LessonForm.cs",
+              "ToolTip": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\LessonForm.cs",
+              "RelativeToolTip": "OptionalLessonProject\\LessonForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:26:07.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StartForm.cs",
+              "RelativeDocumentMoniker": "OptionalLessonProject\\StartForm.cs",
+              "ToolTip": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StartForm.cs",
+              "RelativeToolTip": "OptionalLessonProject\\StartForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAtwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:28:11.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticsForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StaticsForm.cs",
+              "RelativeDocumentMoniker": "OptionalLessonProject\\StaticsForm.cs",
+              "ToolTip": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StaticsForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OptionalLessonProject\\StaticsForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:29:04.958Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StudentForm.cs",
+              "RelativeDocumentMoniker": "OptionalLessonProject\\StudentForm.cs",
+              "ToolTip": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StudentForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OptionalLessonProject\\StudentForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:29:59.019Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticsForm.cs",
+              "DocumentMoniker": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StaticsForm.cs",
+              "RelativeDocumentMoniker": "OptionalLessonProject\\StaticsForm.cs",
+              "ToolTip": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StaticsForm.cs",
+              "RelativeToolTip": "OptionalLessonProject\\StaticsForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:29:29.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StudentForm.cs",
+              "RelativeDocumentMoniker": "OptionalLessonProject\\StudentForm.cs",
+              "ToolTip": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StudentForm.cs",
+              "RelativeToolTip": "OptionalLessonProject\\StudentForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:30:20.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\Model1.edmx",
+              "RelativeDocumentMoniker": "OptionalLessonProject\\Model1.edmx",
+              "ToolTip": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "OptionalLessonProject\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-28T16:25:33.64Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StartForm.cs",
+              "RelativeDocumentMoniker": "OptionalLessonProject\\StartForm.cs",
+              "ToolTip": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\StartForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OptionalLessonProject\\StartForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:27:52.946Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LessonForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\LessonForm.cs",
+              "RelativeDocumentMoniker": "OptionalLessonProject\\LessonForm.cs",
+              "ToolTip": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\LessonForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OptionalLessonProject\\LessonForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:24:46.334Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\Program.cs",
+              "RelativeDocumentMoniker": "OptionalLessonProject\\Program.cs",
+              "ToolTip": "D:\\Kodlar\\OptionalLessonProject\\OptionalLessonProject\\Program.cs",
+              "RelativeToolTip": "OptionalLessonProject\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:30:40.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

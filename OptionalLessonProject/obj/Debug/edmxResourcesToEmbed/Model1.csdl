@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OptionalLessonDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TblLesson">
+    <Key>
+      <PropertyRef Name="LessonId" />
+    </Key>
+    <Property Name="LessonId" Type="Int32" Nullable="false" />
+    <Property Name="LessonName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="TeacherName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="TeacherSurname" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TblStudent" Relationship="Self.FK_TblStudent_TblLesson" FromRole="TblLesson" ToRole="TblStudent" />
+  </EntityType>
+  <EntityType Name="TblStudent">
+    <Key>
+      <PropertyRef Name="StudentId" />
+    </Key>
+    <Property Name="StudentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="StudentSurname" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="LessonId" Type="Int32" />
+    <NavigationProperty Name="TblLesson" Relationship="Self.FK_TblStudent_TblLesson" FromRole="TblStudent" ToRole="TblLesson" />
+  </EntityType>
+  <Association Name="FK_TblStudent_TblLesson">
+    <End Role="TblLesson" Type="Self.TblLesson" Multiplicity="0..1" />
+    <End Role="TblStudent" Type="Self.TblStudent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblLesson">
+        <PropertyRef Name="LessonId" />
+      </Principal>
+      <Dependent Role="TblStudent">
+        <PropertyRef Name="LessonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="OptionalLessonDbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="TblLesson" EntityType="Self.TblLesson" />
+    <EntitySet Name="TblStudent" EntityType="Self.TblStudent" />
+    <AssociationSet Name="FK_TblStudent_TblLesson" Association="Self.FK_TblStudent_TblLesson">
+      <End Role="TblLesson" EntitySet="TblLesson" />
+      <End Role="TblStudent" EntitySet="TblStudent" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
